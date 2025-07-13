@@ -5,7 +5,7 @@ The app provides a user-friendly platform where users can browse books, view det
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The goal of this project is to deliver a simple and intuitive experience for managing and displaying a digital book catalog.  
 The application combines clean UI/UX design with a robust backend API to ensure a seamless and secure user experience.
@@ -31,7 +31,7 @@ The application combines clean UI/UX design with a robust backend API to ensure 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Flutter Framework:** For building the mobile app with a modern UI.
 - **Laravel Framework:** For backend development and API implementation.
@@ -40,13 +40,13 @@ The application combines clean UI/UX design with a robust backend API to ensure 
 
 ---
 
-## 👥 Team Roles
+##  Team Roles
 
 - **Team of 3:** Worked closely as a team to design, build, test, and deploy the application.
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1️⃣ Users can browse books and view detailed pages.  
 2️⃣ Author information is easily accessible.  
@@ -54,7 +54,7 @@ The application combines clean UI/UX design with a robust backend API to ensure 
 
 ---
 
-## 📄 License
+##  License
 
 This project was developed as a collaborative academic project.  
 For any questions or ideas for further development, please feel free to reach out.
